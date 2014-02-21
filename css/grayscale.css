@@ -409,6 +409,10 @@ body {
     height: 400px;
 }
 
+.box-middle-en{
+    height: 510px;
+}
+
 .join{
     display: table;
     width: 100%;
