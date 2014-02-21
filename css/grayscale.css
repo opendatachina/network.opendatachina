@@ -148,8 +148,15 @@ a:focus {
     font-size: 40px;
 }
 
+.brand-heading-en {
+    font-size: 40px;
+}
 .intro-text {
     font-size: 18px;
+}
+
+.intro-text-en {
+    font-size: 22px;
 }
 
 @media(min-width:767px) {
@@ -162,9 +169,17 @@ a:focus {
         font-size: 100px;
     }
 
+    .brand-heading-en {
+    font-size: 40px;
+}
+
     .intro-text {
         font-size: 25px;
     }
+
+    .intro-text-en {
+    font-size: 22px;
+}
 }
 
 .btn-circle {
